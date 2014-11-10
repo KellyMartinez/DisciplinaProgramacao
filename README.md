@@ -1,4 +1,0 @@
-DisciplinaProgramacao
-=====================
-
-Sistema de biblioteca
